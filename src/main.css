@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+color: black;
+font-family: 'Courier New', Courier, monospace;
+box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    margin: 0% 10%;
+}
+h3{
+    font-size: 1.5rem;
+    color: rgb(56, 56, 56);
+    line-height: 2.5rem;
+    margin: 2rem 0rem;
+}
+h4{
+    font-size: 1rem;
+    color: rgb(56, 56, 56);
+}
+a{
+    color: rgb(56, 56, 56);  
+ 
+   
+}
+
+
+
+
+
+
